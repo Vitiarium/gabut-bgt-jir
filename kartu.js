@@ -22,5 +22,5 @@
     }
 })();
 function handleYesClick() {
-    window.location.href = "bunga.js";
+    window.location.href = "bunga.html";
 }
